@@ -6,7 +6,7 @@ myApp.controller('mainController', function($scope){
     { 
       url: "https://x.piratar.is",
       name: "Kosningakerfi",
-      person: "Björn Levy"
+      person: "Bjarni Rúnar"
     },
     {
       url: "http://mas.piratar.is",
@@ -18,7 +18,8 @@ myApp.controller('mainController', function($scope){
     },
     {
       url: "https://member.piratar.is",
-      name: "Félagatal Pírata"
+      name: "Félagatal Pírata",
+      person: "Bjarni Rúnar"
     },
     { 
       url: "http://gogn.piratar.is",
